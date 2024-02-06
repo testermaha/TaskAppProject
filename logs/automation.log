@@ -1,0 +1,56 @@
+21:07:58.799 [main] INFO  testCases.TC_001_CreateAnAccount - Launch webpage
+21:07:59.020 [main] INFO  testCases.TC_001_CreateAnAccount - maximize webpage
+21:07:59.029 [main] INFO  testCases.TC_001_CreateAnAccount - Applied waits
+21:07:59.069 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on my account
+21:08:33.519 [main] INFO  testCases.TC_001_CreateAnAccount - Launch webpage
+21:08:33.657 [main] INFO  testCases.TC_001_CreateAnAccount - maximize webpage
+21:08:33.662 [main] INFO  testCases.TC_001_CreateAnAccount - Applied waits
+21:08:33.704 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on my account
+15:52:14.267 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+15:52:14.390 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+15:52:14.402 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+15:52:14.462 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+15:07:15.813 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+15:07:15.942 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+15:07:15.946 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+15:07:15.991 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+17:20:52.047 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+17:20:52.195 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+17:20:52.217 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+17:20:52.297 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+17:12:55.390 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+17:12:55.543 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+17:12:55.555 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+17:12:55.698 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+10:12:04.700 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+10:12:04.845 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+10:12:04.852 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+10:12:04.963 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+10:13:39.332 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+10:13:39.467 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+10:13:39.478 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+10:13:39.527 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+11:02:02.683 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+11:02:02.804 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+11:02:02.814 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+11:02:02.852 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+11:29:55.781 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+11:29:55.912 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+11:29:55.924 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+11:29:55.979 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+11:34:14.708 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+11:34:14.845 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+11:34:14.850 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+11:34:14.895 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+11:35:31.889 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+11:35:32.004 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+11:35:32.013 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+11:35:32.052 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+12:23:15.179 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+12:23:15.302 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+12:23:15.309 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+12:23:15.361 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
+12:32:51.326 [main] INFO  testCases.TC_001_CreateAnAccount - Launched Webpage
+12:32:51.474 [main] INFO  testCases.TC_001_CreateAnAccount - Maximize page
+12:32:51.482 [main] INFO  testCases.TC_001_CreateAnAccount - Implicit wait applied
+12:32:51.559 [main] INFO  testCases.TC_001_CreateAnAccount - clicking on create an accouut
